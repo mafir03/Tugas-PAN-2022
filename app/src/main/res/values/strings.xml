@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sup</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="balance">Balance</string>
+    <string name="balanceAmout">$0.0</string>
+    <string name="topbar">MoneyMule</string>
+    <string name="home">Home</string>
+    <string name="ask">Ask More</string>
+    <string name="get">Get More</string>
+    <string name="heist">Plan Heist</string>
+    <string name="sleep">Commit Nap</string>
+    <string name="actions">Deposit Methods</string>
+    <string name="SS">Welcome</string>
+</resources>
